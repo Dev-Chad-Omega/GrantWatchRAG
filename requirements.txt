@@ -1,0 +1,21 @@
+# Core dependencies
+requests
+python-dotenv
+pyyaml
+
+# Vector database and embeddings
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+
+# Agent framework
+langchain
+langchain-community
+langchain-openai
+
+# Scheduling and orchestration
+schedule
+
+# Additional utilities
+scikit-learn
